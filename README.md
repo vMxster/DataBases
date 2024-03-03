@@ -1,2 +1,3 @@
-# Database_UNI
-Comprehensive repository for database exercises covering Conceptual, Logical, Physical design, and application development with relational databases
+"Welcome to my Database Exercises Repository! Here, you'll find a comprehensive collection of exercises covering various aspects of database design, including Conceptual Design, Logical Design, Physical Design, and designing applications that utilize relational databases.
+Whether you're a student learning the fundamentals of database management or a professional looking to enhance your skills, my repository offers a diverse range of exercises to help you grasp key concepts and hone your practical abilities.
+Feel free to explore and utilize these exercises to deepen your understanding of database design principles and their practical applications in real-world scenarios.
