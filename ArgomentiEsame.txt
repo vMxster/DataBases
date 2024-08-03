@@ -1,0 +1,12 @@
+Argomenti Esame Scritto:
+
+- Sempre:
+1) Schema e-r 
+2) Algebra relazionale e query
+3) Domanda aperta
+
+- A rotazione:
+1) B-tree B+-tree
+2) Schema logico relazionale 
+3) Calcoli sulla tabella degli accessi
+4) Trasformare in 2forma normale e in 3 forma normale
